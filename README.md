@@ -1,14 +1,14 @@
 # Welcome to my tech world   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div id="header" align="center" style="width:100%;height:0;padding-bottom:80%;position:relative;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJ3d3p2amdjaXJ5bzlqajE3OXU1am50MWc1eWt3bm9ucjdwdTJ6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJ3d3p2amdjaXJ5bzlqajE3OXU1am50MWc1eWt3bm9ucjdwdTJ6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="400"/>
 </div>
 
 ### :woman_technologist: About Me :
 
 
 I'm a passionate mobile developer with expertise in crafting delightful experiences for iOS and Android platforms. My journey in the world of mobile development has been fueled by a love for creating intuitive user interfaces and leveraging cutting-edge technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-     <div align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></div>
+     <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2trM3ZhM2Zuem5tdzYwd2hrZnl3OG8yeWc2ajA2Y2Nrb2N5dGU5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></div>
 ## 🔧 Technologies & Tools
 - **Languages**: dart, JavaScript
 - **Frameworks**:  Flutter
