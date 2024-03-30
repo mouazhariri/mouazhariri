@@ -1,7 +1,8 @@
 # Welcome to my tech world
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div id="header" align="center" style="width:100%;height:0;padding-bottom:80%;position:relative;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJ3d3p2amdjaXJ5bzlqajE3OXU1am50MWc1eWt3bm9ucjdwdTJ6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
 </div>
+
 I'm a passionate mobile developer with expertise in crafting delightful experiences for iOS and Android platforms. My journey in the world of mobile development has been fueled by a love for creating intuitive user interfaces and leveraging cutting-edge technologies.
 
 ## 🔧 Technologies & Tools
