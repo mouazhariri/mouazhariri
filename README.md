@@ -15,7 +15,7 @@ I'm a passionate mobile developer with expertise in crafting delightful experien
 - **IDEs**:  Android Studio, Visual Studio Code
 - **Version Control**: Git, GitHub
 - **Design Tools**: Figma,
-   <div>
+     <div>
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -25,8 +25,7 @@ I'm a passionate mobile developer with expertise in crafting delightful experien
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  </div>
+       </div>
 
 
 ## 📫 Let's Connect
