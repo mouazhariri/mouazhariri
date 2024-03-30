@@ -9,9 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 I'm a passionate mobile developer with expertise in crafting delightful experiences for iOS and Android platforms. My journey in the world of mobile development has been fueled by a love for creating intuitive user interfaces and leveraging cutting-edge technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+     <div align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></div>
 ## 🔧 Technologies & Tools
 - **Languages**: dart, JavaScript
 - **Frameworks**:  Flutter
