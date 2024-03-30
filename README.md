@@ -6,7 +6,6 @@
 
 ### :woman_technologist: About Me :
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 I'm a passionate mobile developer with expertise in crafting delightful experiences for iOS and Android platforms. My journey in the world of mobile development has been fueled by a love for creating intuitive user interfaces and leveraging cutting-edge technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
      <div align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></div>
@@ -16,7 +15,7 @@ I'm a passionate mobile developer with expertise in crafting delightful experien
 - **IDEs**:  Android Studio, Visual Studio Code
 - **Version Control**: Git, GitHub
 - **Design Tools**: Figma,
-<div>
+   <div>
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -27,9 +26,8 @@ I'm a passionate mobile developer with expertise in crafting delightful experien
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-## 📈 GitHub Stats
-![Your Name's GitHub Stats](GitHub Stats Image Link)
+  </div>
+
 
 ## 📫 Let's Connect
 - LinkedIn: https://www.linkedin.com/in/mouaz-hariri-88ab7823a/
