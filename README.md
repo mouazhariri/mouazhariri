@@ -1,6 +1,6 @@
 # Welcome to my tech world   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<div id="header" align-items: center align="center" style="width:100%;height:0;padding-bottom:60%;position:flex;">
+<div id="header" align-items: center align="center" style="width:100%;height:0;padding-bottom:80%;position:flex;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJ3d3p2amdjaXJ5bzlqajE3OXU1am50MWc1eWt3bm9ucjdwdTJ6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200"/>
   <img src="https://komarev.com/ghpvc/?username=mouazhariri&style=flat-square&color=blue" alt=""/>
 
@@ -20,7 +20,6 @@ I'm a passionate mobile developer with expertise in crafting delightful experien
 - **Version Control**: Git, GitHub
 - **Design Tools**: Figma,
      <div>
- 
      <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -30,7 +29,6 @@ I'm a passionate mobile developer with expertise in crafting delightful experien
      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-
        </div>
 
 
@@ -41,7 +39,7 @@ I'm a passionate mobile developer with expertise in crafting delightful experien
 
 
 
-## 📄 About Me
+## 📄 Bio
 Passionate and results-oriented Flutter mobile developer with 2 years of experience building high-quality, Experienced in the full development life cycle from concept and design to deployment. Known for writing clean, efficient code, embracing best practices, and optimizing for performance . I Committed to continuously learning new technologies and techniques to improve as a developer, My curiosity to be a full stack developer but now I focus on mobile developing
 ## 🙌 Thank You for Visiting!
 Thank you for stopping by! Feel free to explore my projects, connect with me on LinkedIn, or drop me an email. Let's collaborate and build amazing mobile experiences together!
