@@ -2,8 +2,7 @@
 
 <div id="header"  align="center" style="width:100%;height:0;padding-bottom:80%;position:relative;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJ3d3p2amdjaXJ5bzlqajE3OXU1am50MWc1eWt3bm9ucjdwdTJ6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200"/>
-  <img src="https://komarev.com/ghpvc/?username=mouazhariri&style=flat-square&color=blue" alt=""/>
-
+  <img src="https://komarev.com/ghpvc/?username=mouazhariri&style=flat-square&color=blue" width="100" alt=""/>
 </div>
 
 
