@@ -44,6 +44,6 @@ I'm a passionate mobile developer with expertise in crafting delightful experien
 
 
 ## 📄 Bio
-Passionate and results-oriented Flutter mobile developer with 2 years of experience building high-quality, Experienced in the full development life cycle from concept and design to deployment. Known for writing clean, efficient code, embracing best practices, and optimizing for performance . I Committed to continuously learning new technologies and techniques to improve as a developer, My curiosity to be a full stack developer but now I focus on mobile developing
+Passionate and results-oriented Flutter mobile developer with over 3 years of experience building high-quality, Experienced in the full development life cycle from concept and design to deployment. Known for writing clean, efficient code, embracing best practices, and optimizing for performance . I Committed to continuously learning new technologies and techniques to improve as a developer, My curiosity to be a full stack developer but now I focus on mobile developing
 ## 🙌 Thank You for Visiting!
 Thank you for stopping by! Feel free to explore my projects, connect with me on LinkedIn, or drop me an email. Let's collaborate and build amazing mobile experiences together!
