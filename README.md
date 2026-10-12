@@ -38,7 +38,7 @@ I'm a passionate mobile developer with expertise in crafting delightful experien
 
 ## 📫 Let's Connect
 - LinkedIn: https://www.linkedin.com/in/mouaz-hariri-88ab7823a/
-- Website: currently under fixing.
+- Website: https://mouazhariri.github.io/.
 - Email: mouazhariri12@gmail.com
 
 
